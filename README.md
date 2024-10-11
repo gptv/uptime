@@ -24,5 +24,4 @@
 ⚠️ 如果没有修改代码的需求，您不需要 git clone 本项目，只需要下载 Release 的文件包即可。
 
 ## 鸣谢：
-
  [uptime-status](https://github.com/yb/uptime-status/ "uptime-status")
